@@ -1,8 +1,7 @@
 {
-    "name": "nahapa/auth",
+    "name": "nahapa/package-laravel-auth-keycloak",
     "require": {
-        "php": ">=7.4 || >=8.0",
-        "ext-json": "*",
+        "php": "^8.0",
         "robsontenorio/laravel-keycloak-guard": "^1.3"
     },
     "require-dev": {
@@ -14,7 +13,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "Auth\\": "src"
+            "PackageAuth\\": "src"
         }
     },
     "autoload-dev": {

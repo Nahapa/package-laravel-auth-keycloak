@@ -1,12 +1,12 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
-        'name' => 'ecommerce/auth',
+        'reference' => '1c3b0d2a2e7c0b3c3617aa50d6d7d77e77ba8db0',
+        'name' => 'nahapa/package-laravel-auth-keycloak',
         'dev' => true,
     ),
     'versions' => array(
@@ -75,15 +75,6 @@
             'aliases' => array(),
             'reference' => 'be85b3f05b46c39bbc0d95f6c071ddff669510fa',
             'dev_requirement' => true,
-        ),
-        'ecommerce/auth' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../../',
-            'aliases' => array(),
-            'reference' => NULL,
-            'dev_requirement' => false,
         ),
         'egulias/email-validator' => array(
             'pretty_version' => '3.1.2',
@@ -410,12 +401,12 @@
             'dev_requirement' => true,
         ),
         'monolog/monolog' => array(
-            'pretty_version' => '2.5.0',
-            'version' => '2.5.0.0',
+            'pretty_version' => '2.6.0',
+            'version' => '2.6.0.0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../monolog/monolog',
             'aliases' => array(),
-            'reference' => '4192345e260f1d51b365536199744b987e160edc',
+            'reference' => '247918972acd74356b0a91dfaa5adcaec069b6c0',
             'dev_requirement' => true,
         ),
         'mtdowling/cron-expression' => array(
@@ -432,6 +423,15 @@
             'aliases' => array(),
             'reference' => '14daed4296fae74d9e3201d2c4925d1acb7aa614',
             'dev_requirement' => true,
+        ),
+        'nahapa/package-laravel-auth-keycloak' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => '1c3b0d2a2e7c0b3c3617aa50d6d7d77e77ba8db0',
+            'dev_requirement' => false,
         ),
         'nesbot/carbon' => array(
             'pretty_version' => '2.58.0',
