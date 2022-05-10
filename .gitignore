@@ -1,4 +1,8 @@
-vendor
-.idea
-.phpunit.result.cache
-composer.lock
+/node_modules
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
