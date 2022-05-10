@@ -30,7 +30,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Auth\\Providers\\AuthServiceProvider"
+                "PackageAuth\\Providers\\AuthServiceProvider"
             ]
         }
     }
