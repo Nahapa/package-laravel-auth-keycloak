@@ -1,1 +1,1 @@
-{"version":1,"defects":{"Modules\\Auth\\Tests\\Feature\\AuthTest::testAuth":4,"Tests\\Feature\\AuthTest::testAuth":4},"times":{"Modules\\Auth\\Tests\\Feature\\AuthTest::testAuth":0.014,"Tests\\Feature\\AuthTest::testAuth":0.205}}
+{"version":1,"defects":{"Modules\\Auth\\Tests\\Feature\\AuthTest::testAuth":4,"Tests\\Feature\\AuthTest::testAuth":5},"times":{"Modules\\Auth\\Tests\\Feature\\AuthTest::testAuth":0.014,"Tests\\Feature\\AuthTest::testAuth":0.14}}

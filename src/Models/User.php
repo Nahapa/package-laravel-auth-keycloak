@@ -1,6 +1,6 @@
 <?php
 
-namespace Auth\Models;
+namespace PackageAuth\Models;
 
 use App\Traits\Uuid;
 use Illuminate\Database\Eloquent\Builder;

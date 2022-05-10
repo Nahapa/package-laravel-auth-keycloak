@@ -1,6 +1,6 @@
 <?php
 
-namespace Auth\Providers;
+namespace PackageAuth\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

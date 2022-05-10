@@ -106,6 +106,7 @@ class ComposerStaticInite88cbacec1bee3c192218ec73449dde5
             'Prophecy\\' => 9,
             'PhpParser\\' => 10,
             'PhpOption\\' => 10,
+            'PackageAuth\\' => 12,
         ),
         'O' => 
         array (
@@ -164,10 +165,6 @@ class ComposerStaticInite88cbacec1bee3c192218ec73449dde5
         'B' => 
         array (
             'Brick\\Math\\' => 11,
-        ),
-        'A' => 
-        array (
-            'Auth\\' => 5,
         ),
     );
 
@@ -375,6 +372,10 @@ class ComposerStaticInite88cbacec1bee3c192218ec73449dde5
         array (
             0 => __DIR__ . '/..' . '/phpoption/phpoption/src/PhpOption',
         ),
+        'PackageAuth\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
+        ),
         'Orchestra\\Testbench\\' => 
         array (
             0 => __DIR__ . '/..' . '/orchestra/testbench-core/src',
@@ -476,10 +477,6 @@ class ComposerStaticInite88cbacec1bee3c192218ec73449dde5
         'Brick\\Math\\' => 
         array (
             0 => __DIR__ . '/..' . '/brick/math/src',
-        ),
-        'Auth\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 
